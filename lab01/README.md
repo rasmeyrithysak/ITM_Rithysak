@@ -17,6 +17,7 @@
 | lab01/business-case.md        | three options compared with payback, risks and a recommendation |
 | lab01/business-case.csv       | cost and benefit lines with written-out formulas |
 | lab01/process-groups.md       | five process groups mapped to 14 weeks, Gantt chart and phase gates |
+| lab01/post-mortem.md | challenge: CampusPay failure analysis and five commitments traced to the charter |
 
 ## Inputs reused
 | Input                                   | Version / tag |
@@ -27,3 +28,4 @@
 | Date       | Version | Change                                                 |
 |------------|---------|--------------------------------------------------------|
 | 2026-10-29 | 0.1     | Lab-01: charter, stakeholders, business case, process-group mapping added |
+| 2026-10-29 | 0.2     | Challenge: post-mortem added (lab01/post-mortem.md) |
