@@ -5,7 +5,7 @@
 | Version  | 1.0 (draft for sponsor approval)   |
 | Date     | 2026-09-29                         |
 | Sponsor  | Head of the IT department          |
-| PM       | Dr. Real Name, supervising lecturer      |
+| PM       | Tal Tongsreng, supervising lecturer      |
 
 ## 1. Purpose and justification
 Lecturers in the IT department spend hours marking quizzes by hand and students get no live feedback during class. The Realtime Quiz platform lets instructors author multiple-choice quizzes and run live, timed sessions where students join with a 6-character code and see scores and a leaderboard instantly. The benefit is less marking time, faster feedback, and a tool the department owns instead of renting a per-seat service. The investment is compared against doing nothing and buying a SaaS in business-case.md, which recommends building.
